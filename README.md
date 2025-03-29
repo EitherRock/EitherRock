@@ -23,5 +23,5 @@ I'm Nathan, a backend developer specializing in Python and FastAPI.
 
 ### 📬 How to Reach Me
 📧 Email: **nathanlesmann@gmail.com**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nathan-lesmann-624003175/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/nathan-lesmann-624003175/)
 💻 [Portfolio](https://your-website.com)  
