@@ -23,6 +23,8 @@ I'm Nathan, a software developer specializing in Python.
 
 
 ## 📬 How to Reach Me
-📧 Email: **nathanlesmann@gmail.com**  
+📧 Personal Email: **nathanlesmann@gmail.com**
+📧 Freelance Email: **lesmann.dev@gmail.com**
+
 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-lesmann-624003175/)
 💻 [Portfolio](https://your-website.com)  
