@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hello there 👋  
 I'm Nathan, a software developer specializing in Python.
 
 ### 🌟 About Me
