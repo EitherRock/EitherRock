@@ -16,12 +16,12 @@ I'm Nathan, a backend developer specializing in Python and FastAPI.
 - ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**
 
 ### 📈 GitHub Stats
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EitherRock&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=EitherRock&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EitherRock&layout=compact&theme=radical)
 
 
 ### 📬 How to Reach Me
-📧 Email: **your.email@example.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📧 Email: **nathanlesmann@gmail.com**  
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nathan-lesmann-624003175/))  
 💻 [Portfolio](https://your-website.com)  
