@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm Nathan, a backend developer specializing in Python and FastAPI.
+I'm Nathan, a backend developer specializing in Python and Docker.
 
 ### 🌟 About Me
 - 🏗 Building **scalable APIs** and backend systems  
@@ -11,13 +11,9 @@ I'm Nathan, a backend developer specializing in Python and FastAPI.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> **JavaScript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> **PostgreSQL**
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**
-- ![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg) **FastAPI**
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**
-- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) **PostgreSQL**
-- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker**
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" height="20"/> **FastAPI**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20"/> **Docker**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> **Git**
 
 ### 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=EitherRock&show_icons=true&theme=radical)
