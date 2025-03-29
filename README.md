@@ -18,6 +18,9 @@ I'm Nathan, a backend developer specializing in Python and FastAPI.
 ### 📈 GitHub Stats
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+
 ### 📬 How to Reach Me
 📧 Email: **your.email@example.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
