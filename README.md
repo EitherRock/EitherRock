@@ -2,7 +2,7 @@
 I'm Nathan, a software developer specializing in Python.
 
 ### 🌟 About Me
-- I'm Self-taught with some college education
+- I'm self-taught with some college education
 - I started programming with game development. Unfortunately, most of my early projects didn't make it to GitHub
 - I began my software development career as an apprentice at the Arkansas Center for Data Sciences, which led to my first job at Movista
 
