@@ -1,5 +1,14 @@
 ## Hi there 👋
 I'm Nathan, a backend developer specializing in Python and FastAPI.
+
+# Skills
+Python
+FastAPI
+Postgres
+PHP
+Javascript
+React
+Tailwind
 <!--
 **EitherRock/EitherRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
