@@ -1,10 +1,10 @@
 ## Hi there 👋  
-I'm Nathan, a backend developer specializing in Python and Docker.
+I'm Nathan, a software developer specializing in Python.
 
 ### 🌟 About Me
-- 🏗 Building **scalable APIs** and backend systems  
-- 🚀 Passionate about **automation & performance optimization**  
-- 🔍 Currently **seeking opportunities** in API development  
+- I'm Self-taught with some college education
+- I started programming with game development. Unfortunately, most of my early projects didn't make it to GitHub
+- I began my software development career as an apprentice at the Arkansas Center for Data Sciences, which led to my first job at Movista
 
 ## 🛠 Languages & Tools:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> **Python**
